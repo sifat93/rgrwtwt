@@ -1,0 +1,17 @@
+body{
+	margin: 0px;
+}
+
+
+img{
+	width: 400px;
+	position: absolute;
+
+	 
+}
+
+p{
+	position: relative;
+	color: red;
+	bottom: 0;
+}
